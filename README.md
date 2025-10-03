@@ -15,6 +15,13 @@ This project helps you keep track of your daily habits by allowing you to add ne
 
 ---
 
+## 📸 Demo
+
+   ![demo-image](./assets/Screenshot%202025-10-03%20160918.png)
+   ![demo-image](./assets/Screenshot%202025-10-03%20161032.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **HTML** – Structure of the app  
@@ -30,7 +37,6 @@ This project helps you keep track of your daily habits by allowing you to add ne
     │── style.css # Stylesheet
     │── script.js # JavaScript logic
     └── README.md # Project documentation
-
 
 ---
 
